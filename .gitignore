@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# QGIS temp files and unnesesary attchments
+*.qgs~
+*_attachments.zip
